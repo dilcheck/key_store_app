@@ -1,0 +1,7 @@
+.qr_frame {
+    margin: 10vh 0vh 10vh 0vh;
+}
+
+.qr_frame > .qrcode {
+    text-align: center;
+}
